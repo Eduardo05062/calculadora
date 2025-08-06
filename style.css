@@ -1,15 +1,209 @@
+.body {
+    background-image: url(imagem/Group\ 30.png);
+}
+
 .fundo {
-    padding-left: 560px;
-    padding-top: 100px;
+    position: absolute;
+    left: 330px;
+
 }
 
 .cos {
     border: none;
     background: none;
     position: absolute;
-    top: 190px;
-    left: 565px;
+    top: 124px;
+    left: 317px;
+}
 
+.tan {
+    border: none;
+    background: none;
+    position: absolute;
+    top: 124px;
+    left: 377px;
+}
 
+.parenteses {
+    border: none;
+    background: none;
+    position: absolute;
+    top: 124px;
+    left: 453px;
+}
 
+.dividir {
+    border: none;
+    background: none;
+    position: absolute;
+    top: 124px;
+    left: 529px;
+}
+
+.E {
+    border: none;
+    background: none;
+    position: absolute;
+    top: 124px;
+    left: 606.5px;
+}
+
+.apagar {
+    border: none;
+    background: none;
+    position: absolute;
+    top: 195px;
+    left: 317px;
+}
+
+.virgula {
+    border: none;
+    background: none;
+    position: absolute;
+    top: 195px;
+    left: 377px;
+}
+
+.porcentagem {
+    border: none;
+    background: none;
+    position: absolute;
+    top: 195px;
+    left: 453px;
+}
+
+.vezes {
+    border: none;
+    background: none;
+    position: absolute;
+    top: 195px;
+    left: 529px;
+}
+
+.log10 {
+    border: none;
+    background: none;
+    position: absolute;
+    top: 195px;
+    left: 606.5px;
+}
+
+.potencia {
+    border: none;
+    background: none;
+    position: absolute;
+    top: 339px;
+    left: 606.5px;
+}
+
+.menos {
+    border: none;
+    background: none;
+    position: absolute;
+    top: 267px;
+    left: 529px;
+}
+
+.raiz {
+    border: none;
+    background: none;
+    position: absolute;
+    top: 267px;
+    left: 606.5px;
+}
+
+.mais {
+    border: none;
+    background: none;
+    position: absolute;
+    top: 339px;
+    left: 529px;
+}
+
+.nove {
+    border: none;
+    background: none;
+    position: absolute;
+    top: 267px;
+    left: 317px;
+}
+
+.oito {
+    border: none;
+    background: none;
+    position: absolute;
+    top: 267px;
+    left: 377px;
+}
+
+.sete {
+    border: none;
+    background: none;
+    position: absolute;
+    top: 267px;
+    left: 453px;
+}
+
+.seis {
+    border: none;
+    background: none;
+    position: absolute;
+    top: 339px;
+    left: 453px;
+}
+
+.cinco {
+    border: none;
+    background: none;
+    position: absolute;
+    top: 339px;
+    left: 377px;
+}
+
+.quatro {
+    border: none;
+    background: none;
+    position: absolute;
+    top: 339px;
+    left: 317px;
+}
+
+.tres {
+    border: none;
+    background: none;
+    position: absolute;
+    top: 411px;
+    left: 317px;
+}
+
+.dois {
+    border: none;
+    background: none;
+    position: absolute;
+    top: 410px;
+    left: 377px;
+}
+
+.um {
+    border: none;
+    background: none;
+    position: absolute;
+    top: 410px;
+    left: 453px;
+}
+
+.zero {
+    border: none;
+    background: none;
+    position: absolute;
+    top: 410px;
+    left: 529px;
+}
+
+.igual {
+    border: none;
+    background: none;
+    position: absolute;
+    top: 410px;
+    left: 606.5px;
 }
